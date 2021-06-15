@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshRenato&theme=radical&langs_count=8)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshRenato&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshRenato&show_icons=true&theme=radical&count_private=true)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klenty-rajesh&show_icons=true&theme=radical&count_private=true)
 
 
 
