@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klenty-rajesh&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klenty-rajesh&theme=radical) -->
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical)      
