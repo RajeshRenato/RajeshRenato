@@ -15,13 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical)      
+<table> 
+  <tr>
+    <td>
+      <img 
+           alt="My Streak" 
+           src="https://github-readme-stats.vercel.app/api?username=RajeshRenato&show_icons=true&theme=radical&count_private=true" 
+      />
+    </td>
+    <td>
+      <img 
+           alt="My Streak" 
+           src="https://github-readme-stats.vercel.app/api?username=klenty-rajesh&show_icons=true&theme=radical&count_private=true"
+      />
+    </td>
+  </tr>
+
+</table>
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical)      
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshRenato&show_icons=true&theme=radical&count_private=true)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=klenty-rajesh&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klenty-rajesh&show_icons=true&theme=radical&count_private=true) -->
 
-<!-- Mon Jun 28 2021 13:19:30 GMT+0530 (India Standard Time) -->
