@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 
 ![views](https://38f5-183-82-241-102.ngrok-free.app/api/recordViews/klenty-rajesh)
 
+https://38f5-183-82-241-102.ngrok-free.app/api/recordViews/klenty-rajesh
+
