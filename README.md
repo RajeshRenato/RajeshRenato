@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=rajeshrenato)](https://git.io/streak-stats)
-<!--     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical" /> -->
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=rajeshrenato&theme=radical" />
+</p>
+
+<p align="center">
+<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=rajeshrenato)](https://git.io/streak-stats) -->
+    <img alt="My Streak" src="https://github-profile-trophy.vercel.app/?username=RajeshRenato&theme=radical&column=4" />
+<!--     <img alt="Streak" src="https://streak-stats.demolab.com/?user=rajeshrenato&theme=radical" /> -->
 </p>
 
 <table> 
