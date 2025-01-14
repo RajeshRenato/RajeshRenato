@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=rajeshrenato)](https://git.io/streak-stats)
+<!--     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshRenato&theme=radical" /> -->
 </p>
 
 <table> 
