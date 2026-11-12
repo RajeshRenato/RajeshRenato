@@ -65,7 +65,7 @@
 <h3 align="center">📦 Published</h3>
 <p align="center"><b>VS&nbsp;Code extensions</b> &nbsp;·&nbsp; 8,000+ installs on the Marketplace</p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.workspace-colors"><img src="https://img.shields.io/badge/Workspace%20Colors-4%2C900%2B%20installs-ff4fa3?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="Workspace Colors"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.workspace-colors"><img src="https://img.shields.io/badge/Workspace%20Colors-5%2C000%2B%20installs-ff4fa3?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="Workspace Colors"></a>
   <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.cyan-world"><img src="https://img.shields.io/badge/Cyan%20World-2%2C900%2B%20installs-28e0ff?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="Cyan World"></a>
   <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.vs-code-reminder"><img src="https://img.shields.io/badge/VSCode%20Reminder-on%20Marketplace-ffd166?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="VSCode Reminder"></a>
 </p>
