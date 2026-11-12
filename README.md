@@ -62,6 +62,19 @@
   </tr>
 </table>
 
+<h3 align="center">📦 Published</h3>
+<p align="center"><b>VS&nbsp;Code extensions</b> &nbsp;·&nbsp; 8,000+ installs on the Marketplace</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.workspace-colors"><img src="https://img.shields.io/badge/Workspace%20Colors-4%2C900%2B%20installs-ff4fa3?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="Workspace Colors"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.cyan-world"><img src="https://img.shields.io/badge/Cyan%20World-2%2C900%2B%20installs-28e0ff?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="Cyan World"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=RajeshRenato.vs-code-reminder"><img src="https://img.shields.io/badge/VSCode%20Reminder-on%20Marketplace-ffd166?style=for-the-badge&labelColor=1f1147&logo=visualstudiocode&logoColor=white" alt="VSCode Reminder"></a>
+</p>
+<p align="center"><b>npm packages</b></p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/trywrap"><img src="https://img.shields.io/npm/v/trywrap?style=for-the-badge&label=trywrap&labelColor=1f1147&color=64ffb4&logo=npm&logoColor=white" alt="trywrap on npm"></a>
+  <a href="https://www.npmjs.com/package/workflow-executor"><img src="https://img.shields.io/npm/v/workflow-executor?style=for-the-badge&label=workflow-executor&labelColor=1f1147&color=b57bff&logo=npm&logoColor=white" alt="workflow-executor on npm"></a>
+</p>
+
 <h3 align="center">🧩 More to explore</h3>
 <p align="center">
   <b>Play online, no server:</b>
